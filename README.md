@@ -103,7 +103,7 @@ Provides decision-makers with a concise summary of findings to guide strategic i
 
 ## Data Model Overview
 
-![Data Model](https://raw.githubusercontent.com/sagar201993/Hospital-ER-PowerBI-Dashboard/main/assets/model.png)
+![Data Model](https://github.com/sagar201993/Hospital_Emergency_Room_Dashboard_PowerBI/blob/main/model.png)
 
 ### Tables Used
 - Hospital_ER: Patient visits, admissions, referrals, wait times
