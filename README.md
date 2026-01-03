@@ -210,5 +210,10 @@ Potential future enhancements:
 
 ---
 
-## Repository Structure
+
+---
+
+## Portfolio Summary
+
+This project demonstrates how Power BI can be used to analyze emergency room operations, identify inefficiencies, and support data-driven decision-making in a healthcare environment.
 
