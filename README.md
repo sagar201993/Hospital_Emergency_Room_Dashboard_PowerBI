@@ -45,7 +45,7 @@ Helps hospital staff monitor monthly ER performance and quickly identify operati
 
 ## Consolidated View Dashboard
 
-![Consolidated View Dashboard](https://raw.githubusercontent.com/sagar201993/Hospital-ER-PowerBI-Dashboard/main/assets/consolidated_view.png)
+![Consolidated View Dashboard](https://github.com/sagar201993/Hospital_Emergency_Room_Dashboard_PowerBI/blob/main/dash2.png)
 
 ### Business Questions Answered
 - What are the long-term trends in ER performance?
@@ -65,7 +65,7 @@ Supports long-term planning, staffing optimization, and performance benchmarking
 
 ## Patient Details Dashboard
 
-![Patient Details Dashboard](https://raw.githubusercontent.com/sagar201993/Hospital-ER-PowerBI-Dashboard/main/assets/patient_details.png)
+![Patient Details Dashboard](https://github.com/sagar201993/Hospital_Emergency_Room_Dashboard_PowerBI/blob/main/dash3.png)
 
 ### Business Questions Answered
 - What are the details of individual patient visits?
@@ -84,7 +84,7 @@ Allows operational teams to drill down into individual records for detailed anal
 
 ## Key Takeaways Dashboard
 
-![Key Takeaways Dashboard](https://raw.githubusercontent.com/sagar201993/Hospital-ER-PowerBI-Dashboard/main/assets/key_takeaways.png)
+![Key Takeaways Dashboard](https://github.com/sagar201993/Hospital_Emergency_Room_Dashboard_PowerBI/blob/main/dash4.png)
 
 ### Business Questions Answered
 - What are the most important insights from the dataset?
