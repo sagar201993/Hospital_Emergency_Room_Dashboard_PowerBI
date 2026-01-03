@@ -24,7 +24,7 @@ The objective of this project is to address key operational and analytical chall
 
 ## Monthly View Dashboard
 
-![Monthly View Dashboard](https://raw.githubusercontent.com/sagar201993/Hospital-ER-PowerBI-Dashboard/main/assets/monthly_view.png)
+![Monthly View Dashboard](https://github.com/sagar201993/Hospital_Emergency_Room_Dashboard_PowerBI/blob/main/dash1.png)
 
 ### Business Questions Answered
 - How many patients visited the ER in a specific month?
